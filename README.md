@@ -51,13 +51,13 @@ The Sure Tomorrow insurance company wants to solve several tasks with the help o
 * Compare results using original and scaled data.
 * Measure RMSE and R² performance metrics.
 
-#### Task 4: Data Obfuscation
+Task 4: Data Obfuscation
 
 * Transform data using matrix multiplication.
 * Verify data recovery and matrix invertibility.
 * Test Linear Regression performance on obfuscated data.
 * Validate that obfuscation preserves model quality.
 
-### 6. Conclusion
+6. Conclusion
 
 * Summarize findings, model results, and insights.
